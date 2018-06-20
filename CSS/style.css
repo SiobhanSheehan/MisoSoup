@@ -20,10 +20,6 @@ base element styles
   text-align: left;
 }
 
-.main-header{
-  background: url("../Images/bggreenplaid.jpg");
-}
-
 h1 {
   text-align: center;
   display: inline;
@@ -99,7 +95,11 @@ img[src*="iso"]{
   border: dotted 8px;
   padding: 0;
   border-color: tomato;
+}
 
+.green-plaid-bg {
+  background: url('../Images/bggreenplaid.jpg') repeat;
+}
 /*=======================================
 Media queries
 ========================================= */
@@ -120,6 +120,3 @@ body {
     width: 20%;
   }
 }
-
-
-.
