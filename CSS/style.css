@@ -38,6 +38,13 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 200px;
+
+}
+
+.rotate {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
 }
 
 
