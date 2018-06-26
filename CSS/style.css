@@ -21,7 +21,11 @@ base element styles
 }
 
 .form-contact{
-  padding-bottom: 20px
+  padding-bottom: 10px
+}
+.formh3 {
+  padding-top: -67px;
+  padding-bottom: -67px;
 }
 
 p {
@@ -31,22 +35,19 @@ p {
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
-  padding-left: : 30px;
+  padding-left: 30px;
 }
 
 img {
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 200px;
-
 }
 
 .rotate {
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
 }
-
-
 
 ul.main-nav {
 width: 100%;
