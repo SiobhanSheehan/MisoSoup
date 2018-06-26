@@ -21,11 +21,14 @@ base element styles
 }
 
 .form-contact{
-  padding-bottom: 10px
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 3;
 }
+
 .formh3 {
-  padding-top: -67px;
-  padding-bottom: -67px;
+  padding-top: -1.67px; */
+  padding-bottom: -1.67px; */
 }
 
 p {
@@ -67,8 +70,8 @@ ul.main-nav li {
   text-decoration: none;
   background-color: tomato;
   color: white;
-
 }
+
 body {
   text-align: center;
   color: black;
@@ -78,8 +81,8 @@ body {
 }
 
 footer p{
-  text-align: left;
-  background-color: grey;
+  text-align: center;
+  background-color: tomato;
   padding-top: 40px;
   padding-right: 20Px;
   padding-bottom: 40px;
