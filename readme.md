@@ -6,3 +6,4 @@ Miso Soup a place for all things Miso
  - Changed the color of the footer to lighter shade of tomato
  - rotated Miso 90 degrees in the CSS file
  - changed up the contact file added a submit button
+ - was able to fix the plaid at the top of the contact file but not the bottom in css
