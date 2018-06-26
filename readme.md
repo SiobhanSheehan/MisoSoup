@@ -5,3 +5,4 @@ Miso Soup a place for all things Miso
  - Added contact button to HTML and CSS - made title Hello Miso
  - Changed the color of the footer to lighter shade of tomato
  - rotated Miso 90 degrees in the CSS file
+ - changed up the contact file added a submit button
