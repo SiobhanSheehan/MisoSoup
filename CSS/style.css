@@ -20,16 +20,16 @@ base element styles
   text-align: left;
 }
 
-.form-contact{
+/* .form-contact{
   margin-bottom: 0;
   margin-top: 0;
   line-height: 3;
-}
+} */
 
-.formh3 {
-  padding-top: -1.67px; */
-  padding-bottom: -1.67px; */
-}
+/* .formh3 {
+  padding-top: -1.67px;
+  padding-bottom: -1.67px;
+} */
 
 p {
   background-color: lightgreen;
