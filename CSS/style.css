@@ -102,14 +102,14 @@ class selectors - "contains"
 img[src*="iso"]{
   margin: 4px;
   border: dotted 8px;
-  padding: 0;
+  padding: 1px;
   border-color: tomato;
 }
 
 .green-plaid-bg {
   background: url('../Images/bggreenplaid.jpg') repeat;
   padding-top: 2px;
-  padding-bottom: 2px;
+  padding-bottom: 3px;
 }
 /*=======================================
 Media queries
