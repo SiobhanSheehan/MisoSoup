@@ -92,9 +92,8 @@ img[src*="iso"]{
   border: dotted 8px;
   padding: 0;
   border-color: tomato;
-
-
 }
+
 /*=======================================
 class selectors - "contains"
 =======================================*/
