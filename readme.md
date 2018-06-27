@@ -8,3 +8,4 @@ Miso Soup a place for all things Miso
  - changed up the contact file added a submit button
  - was able to fix the plaid at the top of the contact file but not the bottom in css
  - add javascript file to project that has function submit button. "Thank you for your contact information"
+ - updated HTML to include info - thanks for mentor at code louisville Wed night class 
