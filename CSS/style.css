@@ -19,7 +19,7 @@ base element styles
 .header-class {
   text-align: left;
 }
-
+/* original contact info - moved to a different layout for more responsiveness */
 /* .form-contact{
   margin-bottom: 0;
   margin-top: 0;
@@ -108,8 +108,8 @@ img[src*="iso"]{
 .green-plaid-bg {
   background: url('../Images/bggreenplaid.jpg') repeat;
   padding-top: 2px;
-  padding-bottom: 3px;
 }
+
 /*=======================================
 Media queries
 ========================================= */
