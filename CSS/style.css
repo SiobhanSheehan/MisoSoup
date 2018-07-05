@@ -40,12 +40,13 @@ p {
   padding-bottom: 50px;
   padding-left: 30px;
 }
-
+/* big image of Miso */
 img {
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 200px;
 }
+/* end big image  */
 
 .rotate {
   -webkit-transform: rotate(90deg);
@@ -66,21 +67,19 @@ ul.main-nav li {
   margin: 0;
 }
 
+/* main-nav menu */
 .main-nav a {
   text-decoration: none;
   background-color: tomato;
   color: white;
 }
+/*end main-nav menu  */
 
 body {
   text-align: center;
   color: black;
   font-family: sans-serif;
   line-height: 3.5;
-}
-
-button: hover{
-  background-color: lightgreen;
 }
 
 footer p{
@@ -107,7 +106,7 @@ class selectors - "contains"
 .green-plaid-bg {
   background: url('../Images/bggreenplaid.jpg');
   padding-top: 2px;
-  
+
 }
 
 /*=======================================
