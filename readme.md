@@ -10,3 +10,4 @@ Miso Soup a place for all things Miso
  - add javascript file to project that has function submit button. "Thank you for your contact information"
  - updated HTML to include info - thanks for mentor at code louisville Wed night class
  - added ! to HTML file
+ - Closed the gap between form and footer to be all green plaid
