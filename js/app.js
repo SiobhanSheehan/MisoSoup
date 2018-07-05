@@ -3,11 +3,11 @@
 $(function() {
   console.log("Hello!")
 
-  $("#submit").click(function () {
+$("#submit").click(function() {
     submit();
   });
 });
 // on submit - browser will respond with below message
 function submit() {
-  alert("thanks for your contact information");
+  alert("thank you for your contact information");
 }

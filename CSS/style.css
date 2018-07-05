@@ -79,12 +79,16 @@ body {
   line-height: 3.5;
 }
 
+button: hover{
+  background-color: lightgreen;
+}
+
 footer p{
   text-align: center;
-  background-color: tomato;
-  padding-top: 40px;
+  background-color: lightblue;
+  padding-top: 10px;
   padding-right: 20Px;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
   padding-left: 20px;
 }
 img[src*="iso"]{
@@ -98,16 +102,10 @@ img[src*="iso"]{
 class selectors - "contains"
 =======================================*/
 
-img[src*="iso"]{
-  margin: 4px;
-  border: dotted 8px;
-  padding: 1px;
-  border-color: tomato;
-}
 
 .green-plaid-bg {
   background: url('../Images/bggreenplaid.jpg') repeat;
-  padding-top: 2px;
+  padding-top: 4px;
 }
 
 /*=======================================
@@ -121,12 +119,3 @@ body {
 @media only screen and (min-width: 630px) {
   /* only for screens wider or equal to 630 pixels */
   /* code from https://www.thesitewizard.com/css/design-2-column-layout.shtml */
-  #content {
-    float: right ;
-    width: 80% ;
-  }
-  #navbar {
-    float: right;
-    width: 20%;
-  }
-}
