@@ -102,11 +102,15 @@ img[src*="iso"]{
 class selectors - "contains"
 =======================================*/
 
-
 .green-plaid-bg {
   background: url('../Images/bggreenplaid.jpg');
   padding-top: 2px;
+}
 
+#submit{
+  height: 20px;
+  width: 10%;
+  background: tomato !important;
 }
 
 /*=======================================

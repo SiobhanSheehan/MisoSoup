@@ -11,3 +11,4 @@ Miso Soup a place for all things Miso - this project is in honor of a sweet litt
  - updated HTML to include info - thanks for mentor at code louisville Wed night class
  - added ! to HTML file
  - Closed the gap between form and footer to be all green plaid
+ - Changed the submit button to red in CSS and made the button smaller
