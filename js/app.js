@@ -9,5 +9,5 @@ $("#submit").click(function() {
 });
 // on submit - browser will respond with below message
 function submit() {
-  alert("thank you for your contact information");
+  alert("Thank you for your contact information!");
 }
