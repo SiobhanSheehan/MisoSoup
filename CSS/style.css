@@ -19,17 +19,7 @@ base element styles
 .header-class {
   text-align: left;
 }
-/* original contact info - moved to a different layout for more responsiveness */
-/* .form-contact{
-  margin-bottom: 0;
-  margin-top: 0;
-  line-height: 3;
-} */
 
-/* .formh3 {
-  padding-top: -1.67px;
-  padding-bottom: -1.67px;
-} */
 
 p {
   background-color: lightgreen;
@@ -106,12 +96,17 @@ class selectors - "contains"
   background: url('../Images/bggreenplaid.jpg');
   padding-top: 2px;
 }
-
+/*=======================================
+submit button
+=======================================*/
 #submit{
   height: 20px;
   width: 10%;
   background: tomato !important;
 }
+/*=======================================
+end submit button
+=======================================*/
 
 /*=======================================
 Media queries
