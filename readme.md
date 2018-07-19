@@ -12,4 +12,5 @@ Miso Soup a place for all things Miso - this project is in honor of a sweet litt
  - added ! to HTML file
  - Closed the gap between form and footer to be all green plaid
  - Changed the submit button to red in CSS and made the button smaller
- - Issue with images not working in Github.  Made changes to image files and updated the HTML to correct.  They are currently responding 
+ - Issue with images not working in Github.  Made changes to image files and updated the HTML to correct.  They are currently responding
+ - Adjusted footer and the margin around the submit button.  
