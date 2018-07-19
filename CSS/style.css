@@ -105,9 +105,10 @@ submit button
   height: 50px;
   width: 7%;
   background: tomato !important;
-  padding: 10px;
+  padding: 5px;
   margin-bottom: 2em;
   margin-top: 2em;
+  font-size-adjust: auto;
 
 }
 
