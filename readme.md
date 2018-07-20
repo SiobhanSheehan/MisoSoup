@@ -14,3 +14,4 @@ Miso Soup a place for all things Miso - this project is in honor of a sweet litt
  - Changed the submit button to red in CSS and made the button smaller
  - Issue with images not working in Github.  Made changes to image files and updated the HTML to correct.  They are currently responding
  - Adjusted footer and the margin around the submit button.  
+ - Added to CSS code for @media for tablets and phones.  Tested it on my tablet and phone it scaled nicely
