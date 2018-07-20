@@ -17,11 +17,11 @@ base element styles
   float: right;
 }
 
-
+/*
 .header-class {
   text-align: left;
 }
-
+*/
 p {
   background-color: lightgreen;
   color: black;
@@ -69,14 +69,17 @@ ul.main-nav li {
 }
 /*end main-nav menu  */
 
+
+/* header-Miso Soup */
 h1 {
     font-size: 4em;
-    margin: 0.67em 0;
+    margin: 0.25em;
     border-style: double;
     border-color: darkBlue;
     border-width: thick;
-    border-spacing: 20px;
+  
 }
+
 body {
   text-align: center;
   color: black;
@@ -84,8 +87,8 @@ body {
   line-height: 2.0;
 }
 h2 {
-  letter-spacing: 1px;
-  color: cornflowerBlue;
+  letter-spacing: 0;
+  color: darkBlue;
   font-family: Arial,Helvetica Verdana,sans-serif;
 }
 
