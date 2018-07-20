@@ -72,6 +72,10 @@ ul.main-nav li {
 h1 {
     font-size: 4em;
     margin: 0.67em 0;
+    border-style: double;
+    border-color: darkBlue;
+    border-width: thick;
+    border-spacing: 20px;
 }
 body {
   text-align: center;
