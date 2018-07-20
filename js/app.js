@@ -1,7 +1,7 @@
 // jss for contact form
 
 $(function() {
-  console.log("Hello!")
+  console.log("Woof!")
 
 $("#submit").click(function() {
     submit();
