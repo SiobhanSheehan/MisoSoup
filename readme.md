@@ -18,3 +18,4 @@ Miso Soup a place for all things Miso - this project is in honor of a sweet litt
  - Changed margin on Miso Soup to contain the height and keep the hero image of Miso from dropping below the screen
  - added border around Miso Soup
  - HTML change to submit button to a paw image and added alternative text
+ - Changed up an image and text - added Miso in a dress (Fashionista)
