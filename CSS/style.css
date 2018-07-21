@@ -40,12 +40,12 @@ img {
   float: none;
 }
 /* end big image  */
-
+/*
 .rotate {
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
 }
-
+*/
 ul.main-nav {
 width: 100%;
 text-align: center;
